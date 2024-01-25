@@ -39,7 +39,7 @@
         android:layout_marginEnd="9dp"
         android:background="#3AC13F"
         android:gravity="center"
-        android:text="ĐIỀN THÔNG TIN VÀO ĐÂY"
+        android:text="DUYTCONMEMAY"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
